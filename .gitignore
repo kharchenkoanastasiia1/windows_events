@@ -1,0 +1,33 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+.git_backup
+
+# Maven
+target/
+
+# Logs
+*.log
+logs/
+
+# Data
+data/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Build / binaries
+*.exe
+*.dll
+*.jar
+
+# Local / temporary
+*.tmp
+*.temp
+
+# Secrets / local configs
+.env
+application-local.properties
+application-local.yml
+WindowsEventsService.xml
